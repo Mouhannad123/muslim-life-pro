@@ -1,0 +1,11 @@
+{
+  "name": "muslim-life-pro",
+  "version": "1.0.0",
+  "dependencies": {
+    "@react-navigation/native": "^6.1.9",
+    "@react-navigation/stack": "^6.3.17",
+    "expo": "^50.0.0",
+    "react": "18.2.0",
+    "react-native": "0.73.6"
+  }
+}
