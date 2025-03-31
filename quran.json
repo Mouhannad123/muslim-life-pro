@@ -1,0 +1,14 @@
+{
+  "surahs": [
+    {
+      "id": 1,
+      "name": "Al-Fatiha",
+      "verses": ["Verse 1", "Verse 2"]
+    },
+    {
+      "id": 2,
+      "name": "Al-Baqarah",
+      "verses": ["Verse 1", "Verse 2"]
+    }
+  ]
+}
